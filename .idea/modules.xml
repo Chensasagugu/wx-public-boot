@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/wx-api/wx-api.iml" filepath="$PROJECT_DIR$/wx-api/wx-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wx-common/wx-common.iml" filepath="$PROJECT_DIR$/wx-common/wx-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/wx-public-boot.iml" filepath="$PROJECT_DIR$/.idea/wx-public-boot.iml" />
+    </modules>
+  </component>
+</project>
